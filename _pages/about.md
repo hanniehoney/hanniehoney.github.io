@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic portfolio where art meets AI. I'm Hannie Liu, an entrepreneurial scientist specializing in AI with a background in psychophysics and extensive experience in coding and product development. This site showcases my insights, research, projects, and interdisciplinary work. Here, you'll find my thoughts on AI trends, research findings, and future directions, along with my photography and music interests. Explore my journey in bridging the gap between science, art, and technology.
+Welcome to my academic portfolio where art meets AI. I'm Hannie Liu, an AI researcher and entrepreneur specializing in AI. With a background in psychophysics, I have extensive experience in coding and product development. Here, you will find my insights, research, projects, and interdisciplinary work. Here, you'll find my thoughts on AI trends, research findings, and future directions, along with my photography and music interests. Explore my journey in bridging the gap between science, art, and technology.
 
 AI Perspectives
 ======
