@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Taipei, Taiwan 🧋"
   employer         : # example: "company name"  
-  uri              : "https://bento.me/hannieliu" # URL
+  uri              : # example: "https://bento.me/hannieliu" # URL
   email            : "hannie.ihanliu@gmail.com" 
 
   # Academic websites
