@@ -9,29 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* May 2018 - May 2024 | Co-founder & CEO @ShowHue(Artificial Intelligence Startup)
+  * Cross-functional collaboration and communication: Directed a 10+ professional team members, executing strategic initiatives to streamline operations across R&D, Science, Research, UI/UX, Customer, and Business divisions.
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* Sept. 2014 - Mar. 2016 | CMO @Zuvio(EduTech Startup)
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
+
+Education
+======
+* M.S. in Graduate Institute of Color and Illumination Technology, National Taiwan University of Science and Technology, 2015-2018
+* B.S. in GitHub, GitHub University, 2012
+
 Skills
 ======
 * Skill 1
@@ -53,11 +50,11 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
