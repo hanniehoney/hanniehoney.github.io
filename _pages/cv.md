@@ -14,7 +14,8 @@ If you would like to download my CV, please [click here](path_to_your_cv.pdf) to
 
 
 Work experience
-======
+===============
+
 ## Co-founder & Chief Executive Officer
 **ShowHue, Artificial Intelligence Startup**  
 *May 2018 - May 2024*
@@ -27,7 +28,6 @@ Work experience
 - **Early-Stage Startups:** Selected for competitive global startup accelerators, including 500 Global, Facebook Accelerator and Microsoft Startup Hub. We secured strategic partnerships with cloud providers, receiving $600k in free cloud credits from Microsoft and GCS, which significantly enhanced our GPU computing capabilities for highly-capable AI systems.
 
 ## Chief Marketing Officer
-------
 **Zuvio, Education Tech Startup**  
 *Sept. 2014 - Mar. 2016*
 
@@ -36,7 +36,7 @@ Work experience
 - **Scale reach and impact:** Founded "Goawesome," Taiwan's pioneering digital education platform, launching from 0 to 1 to foster teacher collaboration, knowledge-sharing, and innovation, aiming to enhance the future of Taiwan's education system.
 
 Education
-======
+===============
 ### Graduate Institute of Color and Illumination Technology
 **National Taiwan University of Science and Technology**  
 *M.S., 2015–2018*
