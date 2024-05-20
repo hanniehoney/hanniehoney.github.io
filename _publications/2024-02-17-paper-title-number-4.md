@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Colour Harmony in Clothing, Skin Tones and Hair Colours for Applications of Online Shopping"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2017-10-colour-harmony-in-clothing-skin-tones-and-hair-colours-for-applications-of-online-shopping
+excerpt: 'This study investigates color harmony principles in fashion for online shopping using psychophysical methods.'
+date: 2017-10
+venue: 'AIC 2017 Jeju'
+paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-Le0SiYAAAAJ&citation_for_view=-Le0SiYAAAAJ:u5HHmVD_uO8C'
+# citation: 'IH Liu, LC Ou - AIC 2017 Jeju,  (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study investigates color harmony principles in fashion for online shopping using psychophysical methods. Fifty observers rated images based on color harmony, liking, and fashionableness. Results showed that light skin tones generally enhanced harmony, with little difference between gender groups. The study tested lightness, chroma, and hue principles, finding varying impacts on perceived harmony. Higher chroma typically reduced harmony, while complementary hues often enhanced it.
