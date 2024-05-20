@@ -15,7 +15,7 @@ If you would like to download my CV, please [click here](path_to_your_cv.pdf) to
 
 Work experience
 ======
-### Co-founder & Chief Executive Officer
+## Co-founder & Chief Executive Officer
 **ShowHue, Artificial Intelligence Startup**  
 *May 2018 - May 2024*
 
@@ -26,7 +26,8 @@ Work experience
 - **Independent Work in Dynamic Environments:** Enhanced remote collaboration over 36 months by implementing automated task tracking and daily reporting through Slack and Airtable. This initiative streamlined workflows in fast-paced and dynamic environments, significantly boosting efficiency, and supporting independent work.
 - **Early-Stage Startups:** Selected for competitive global startup accelerators, including 500 Global, Facebook Accelerator and Microsoft Startup Hub. We secured strategic partnerships with cloud providers, receiving $600k in free cloud credits from Microsoft and GCS, which significantly enhanced our GPU computing capabilities for highly-capable AI systems.
 
-### Chief Marketing Officer
+## Chief Marketing Officer
+------
 **Zuvio, Education Tech Startup**  
 *Sept. 2014 - Mar. 2016*
 
