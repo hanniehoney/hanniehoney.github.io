@@ -9,9 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+If you would like to download my CV, please [click here](path_to_your_cv.pdf) to download.
+
+
 
 Work experience
 ======
+#### Co-founder & Chief Executive Officer
+**ShowHue, Artificial Intelligence Startup**  
+*May 2018 - May 2024*
+
+- Cross-functional collaboration and communication: Directed a 10+ professional team members, executing strategic initiatives to streamline operations across R&D, Science, Research, UI/UX, Customer, and Business divisions.
+- Duties include: Updates and improvements to template
+- Supervisor: The Users
+
 * May 2018 - May 2024 | Co-founder & CEO @ShowHue(Artificial Intelligence Startup)
   * Cross-functional collaboration and communication: Directed a 10+ professional team members, executing strategic initiatives to streamline operations across R&D, Science, Research, UI/UX, Customer, and Business divisions.
   * Duties includes: Updates and improvements to template
