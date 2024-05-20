@@ -12,6 +12,7 @@ redirect_from:
 If you would like to download my CV, please [click here](path_to_your_cv.pdf) to download.
 
 
+<br>
 
 # Work experience
 <!-- =============== -->
@@ -35,6 +36,8 @@ If you would like to download my CV, please [click here](path_to_your_cv.pdf) to
 - **Product Development and Scaling:** Scaled our educational technology solution to achieve Taiwan's top market share, exceeding 10 million user interactions, through strategic execution, metric analysis, and customer research.
 - **Product Marketing Strategy:** Developed and executed educational technology strategies that captured the top market share within 18 months, implementing tech solutions across 50 tertiary institutions.
 - **Scale reach and impact:** Founded "Goawesome," Taiwan's pioneering digital education platform, launching from 0 to 1 to foster teacher collaboration, knowledge-sharing, and innovation, aiming to enhance the future of Taiwan's education system.
+
+<br><br>
 
 # Education
 <!-- =============== -->
@@ -64,21 +67,27 @@ If you would like to download my CV, please [click here](path_to_your_cv.pdf) to
 - **Comprehensive Academic Curriculum:** Engaged in a diverse range of subjects including Law, Finance, Management, and Marketing, with a focus on Commercial Law, Consumer Behavior, International Trade, and Statistics.
 - **National Marketing Competition Runner-Up:** Achieved second place in the TBSA National Collegiate Innovation Planning Competition in Product Marketing.
 
-Skills
+<br><br>
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
+
+<br><br>
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<br><br>
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -91,6 +100,6 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
