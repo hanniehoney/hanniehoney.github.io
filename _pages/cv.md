@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-If you would like to download my CV, please [click here](https://drive.google.com/file/d/1FT9Cj2MXRyqo066pz2T0luhp1vh9LBSD/view?usp=sharing) to download.
+If you would like to download my CV, please <a href="https://drive.google.com/file/d/1FT9Cj2MXRyqo066pz2T0luhp1vh9LBSD/view?usp=drive_link" target="_blank">click here</a> to download.
+
 
 
 <br>
