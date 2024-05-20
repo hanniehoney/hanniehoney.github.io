@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-If you would like to download my CV, please [click here](path_to_your_cv.pdf) to download.
+If you would like to download my CV, please [click here](https://drive.google.com/file/d/1FT9Cj2MXRyqo066pz2T0luhp1vh9LBSD/view?usp=sharing) to download.
 
 
 <br>
@@ -77,8 +77,6 @@ If you would like to download my CV, please [click here](path_to_your_cv.pdf) to
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3 -->
-
-<br><br>
 
 Publications
 ======
