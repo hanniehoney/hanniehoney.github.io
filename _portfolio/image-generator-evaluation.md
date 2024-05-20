@@ -1,6 +1,6 @@
 ---
 title: "Image Generator Evaluation System Design"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Evaluating image differences and testing AI models using Python and Airtable"
 collection: portfolio
 permalink: /portfolio/image-generator-evaluation/
 ---
