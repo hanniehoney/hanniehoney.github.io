@@ -13,8 +13,9 @@ If you would like to download my CV, please [click here](path_to_your_cv.pdf) to
 
 
 
-Work experience
-===============
+# Work experience
+<!-- =============== -->
+<hr>
 
 ## Co-founder & Chief Executive Officer
 **ShowHue, Artificial Intelligence Startup**  
@@ -35,9 +36,11 @@ Work experience
 - **Product Marketing Strategy:** Developed and executed educational technology strategies that captured the top market share within 18 months, implementing tech solutions across 50 tertiary institutions.
 - **Scale reach and impact:** Founded "Goawesome," Taiwan's pioneering digital education platform, launching from 0 to 1 to foster teacher collaboration, knowledge-sharing, and innovation, aiming to enhance the future of Taiwan's education system.
 
-Education
-===============
-### Graduate Institute of Color and Illumination Technology
+# Education
+<!-- =============== -->
+<hr>
+
+## Graduate Institute of Color and Illumination Technology
 **National Taiwan University of Science and Technology**  
 *M.S., 2015–2018*
 
@@ -47,14 +50,14 @@ Education
 - **Presented at International Conference:** Contributed two oral papers and delivered one presentation at the 13th AIC (International Colour Association).
 - **Studied Broad Imaging Subjects:** Covered extensive topics including image processing, transparent displays, AR/VR, 3D reconstruction, Digital Archive Technology, and Imaging and Lighting Industries.
 
-### Management Science and Engineering
+## Management Science and Engineering
 **Xi'an Jiaotong University**  
 *Master's degree - Exchange Program, 2016-2017*
 
 - **Studied Project Management Engineering:** Applied asset-liability analysis, corporate valuation, risk analysis, and cost-benefit analysis to evaluate significant projects including a large port investment, a new coal mine development, and national highway infrastructure projects.
 - **Explored Scalable Data Science:** Performed statistical analysis using Python on the Large Movie Review Dataset to identify a significant correlation between feminist-themed movies and their box office success during peaks in feminist movements.
 
-### International Business
+## International Business
 **Soochow University**  
 *Bachelor's degree, 2010-2014*
 
