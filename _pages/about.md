@@ -9,21 +9,21 @@ redirect_from:
 
 I specialize in CVML, Psychophysics, and Product Development, blending science, art, and technology. My work spans coding, research, and interdisciplinary projects. I love exploring technology trends, sharing insights, and mentoring young talents in the software field. Beyond technology, I have a passion for photography and music. Join me as I bridge the gap between science and creativity.
 
-<br><br>
+<!-- <br><br> -->
 
 AI Perspectives
 ======
 
 In my article ["Mustafa Suleyman: My new Turing test would see if AI can make $1 million"](https://www.linkedin.com/posts/hannieliu_mustafa-suleyman-my-new-turing-test-would-activity-7086714498408988672-9pYX?utm_source=share&utm_medium=member_desktop), I explore Suleyman's vision for a new Turing Test that measures an AI's ability to transition across tasks, from text to video and image to audio. This future of AI emphasizes collaboration in creativity rather than mere efficiency. Additionally, in ["Why there's no emergence happening on CV but NLP?"](https://www.linkedin.com/posts/hannieliu_cv-nlp-emergence-activity-7081431488369463296-9sxe?utm_source=share&utm_medium=member_desktop), I discuss why natural language processing exhibits emergent behaviors, unlike computer vision, due to factors like unified task representations and architecture, higher information density in language, and the complexity of visual tasks. The evolution of computer vision may lie in multi-modal, highly integrated technologies.
 
-<br><br>
+<!-- <br><br> -->
 
 Building with AI
 ======
 
 In my article ["Measuring AI Success by the Value It Brings to Users"](https://hannieliu.substack.com/p/measuring-ai-success-by-the-value), I explore the importance of user value in assessing AI success. Despite an initial focus on response accuracy, I found that smooth task completion is crucial. OpenAI's GPT-4 exemplifies this with its superior user experience, emphasizing quality and real-time interaction. This aligns with my insights in ["McKinsey's Three Horizons Model"](https://www.linkedin.com/posts/hannieliu_cv-nlp-emergence-activity-7081431488369463296-9sxe?utm_source=share&utm_medium=member_desktop), highlighting the significance of resource distribution for AI product development. This model helps startups focus their innovation strategy by allocating 70% of resources to immediate goals, 20% to mid-term, and 10% to long-term projects. Additionally, in ["Positioning the AI Startup Landscape"](https://hannieliu.substack.com/p/ai), I discuss how understanding one's unique value proposition (UVP) and positioning within the AI ecosystem is crucial. By leveraging tools like AI landscapes and positioning maps, startups can better understand internal capabilities, external competition, and potential partnerships, ensuring a strategic approach to market entry and growth. These insights underline the necessity of balancing functionality, user experience, and strategic positioning to achieve sustainable AI success.
 
-<br><br>
+<!-- <br><br> -->
 
 Art and Science Synergy
 ======
