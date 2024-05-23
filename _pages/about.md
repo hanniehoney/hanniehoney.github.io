@@ -1,27 +1,40 @@
 ---
 permalink: /
-title: "Hannie Liu's Academic Portfolio"
+title: "Hannie Liu's Professional Journey"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my academic portfolio where art meets AI. I'm Hannie Liu, an AI researcher and entrepreneur specializing in AI. With a background in psychophysics, I have extensive experience in coding and product development. Here, you will find my insights, research, projects, and interdisciplinary work. Here, you'll find my thoughts on AI trends, research findings, and future directions, along with my photography and music interests. Explore my journey in bridging the gap between science, art, and technology.
+I specialize in CVML, Psychophysics, and Product Development, blending science, art, and technology. My work spans coding, research, and interdisciplinary projects. I love exploring technology trends, sharing insights, and mentoring young talents in the software field. Beyond technology, I have a passion for photography and music. Join me as I bridge the gap between science and creativity.
+
+<br><br>
 
 AI Perspectives
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+In my article ["Mustafa Suleyman: My new Turing test would see if AI can make $1 million"](https://www.linkedin.com/posts/hannieliu_mustafa-suleyman-my-new-turing-test-would-activity-7086714498408988672-9pYX?utm_source=share&utm_medium=member_desktop), I explore Suleyman's vision for a new Turing Test that measures an AI's ability to transition across tasks, from text to video and image to audio. This future of AI emphasizes collaboration in creativity rather than mere efficiency. Additionally, in ["Why there's no emergence happening on CV but NLP?"](https://www.linkedin.com/posts/hannieliu_cv-nlp-emergence-activity-7081431488369463296-9sxe?utm_source=share&utm_medium=member_desktop), I discuss why natural language processing exhibits emergent behaviors, unlike computer vision, due to factors like unified task representations and architecture, higher information density in language, and the complexity of visual tasks. The evolution of computer vision may lie in multi-modal, highly integrated technologies.
+
+<br><br>
 
 Building with AI
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Art and AI Synergy
+In my article ["Measuring AI Success by the Value It Brings to Users"](https://hannieliu.substack.com/p/measuring-ai-success-by-the-value), I explore the importance of user value in assessing AI success. Despite an initial focus on response accuracy, I found that smooth task completion is crucial. OpenAI's GPT-4 exemplifies this with its superior user experience, emphasizing quality and real-time interaction. This aligns with my insights in ["McKinsey's Three Horizons Model"](https://www.linkedin.com/posts/hannieliu_cv-nlp-emergence-activity-7081431488369463296-9sxe?utm_source=share&utm_medium=member_desktop), highlighting the significance of resource distribution for AI product development. This model helps startups focus their innovation strategy by allocating 70% of resources to immediate goals, 20% to mid-term, and 10% to long-term projects. Additionally, in ["Positioning the AI Startup Landscape"](https://hannieliu.substack.com/p/ai), I discuss how understanding one's unique value proposition (UVP) and positioning within the AI ecosystem is crucial. By leveraging tools like AI landscapes and positioning maps, startups can better understand internal capabilities, external competition, and potential partnerships, ensuring a strategic approach to market entry and growth. These insights underline the necessity of balancing functionality, user experience, and strategic positioning to achieve sustainable AI success.
+
+<br><br>
+
+Art and Science Synergy
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+
+> The greatest scientists are artists as well.
+> — Albert Einstein
+
+> Study the science of art. Study the art of science. Develop your senses - especially learn how to see. Realize that everything connects to everything else.
+> — Leonardo da Vinci
+
+<!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
 
 <!-- Getting started
 ======
