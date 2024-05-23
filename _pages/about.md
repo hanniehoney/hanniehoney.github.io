@@ -16,7 +16,6 @@ AI Perspectives
 
 In my article ["Mustafa Suleyman: My new Turing test would see if AI can make $1 million"](https://www.linkedin.com/posts/hannieliu_mustafa-suleyman-my-new-turing-test-would-activity-7086714498408988672-9pYX?utm_source=share&utm_medium=member_desktop), I explore Suleyman's vision for a new Turing Test that measures an AI's ability to transition across tasks, from text to video and image to audio. This future of AI emphasizes collaboration in creativity rather than mere efficiency. Additionally, in ["Why there's no emergence happening on CV but NLP?"](https://www.linkedin.com/posts/hannieliu_cv-nlp-emergence-activity-7081431488369463296-9sxe?utm_source=share&utm_medium=member_desktop), I discuss why natural language processing exhibits emergent behaviors, unlike computer vision, due to factors like unified task representations and architecture, higher information density in language, and the complexity of visual tasks. The evolution of computer vision may lie in multi-modal, highly integrated technologies.
 
-<!-- <br><br> -->
 
 Building with AI
 ======
