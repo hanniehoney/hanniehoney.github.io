@@ -15,7 +15,7 @@ Vision
 ======
 A future where humans and technology coexist in harmony, enhancing the quality of life for all.
 
-<br>
+<!-- <br> -->
 
 Mission
 ======
