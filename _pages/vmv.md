@@ -15,11 +15,11 @@ Vision
 ======
 A future where humans and technology coexist in harmony, enhancing the quality of life for all.
 
-<!-- <br> -->
+<br>
 
 Mission
 ======
-My missions to achieve my vision.
+<!-- My missions to achieve my vision. -->
 
 ### Bridging Technology and Humanity
 To bridge the gap between technology and humanity, fostering understanding and cooperation through extensive knowledge in both domains.
@@ -30,11 +30,11 @@ To empower individuals to discover and cultivate their talents and passions thro
 ### Access and Inclusivity
 To champion equitable access to cutting-edge technologies and education, empowering underserved communities and ensuring no one is left behind in the digital revolution.
 
-<!-- <br> -->
+<br>
 
 Value
 ======
-My strengths that offer to benefit others.
+<!-- My strengths that offer to benefit others. -->
 
 ## Innovation and Problem-Solving
 - **Debugging and Troubleshooting:** I have a keen eye for detail, strong analytical skills, and excel at troubleshooting, allowing me to quickly identify root causes and propose effective solutions.
