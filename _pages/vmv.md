@@ -30,7 +30,7 @@ To empower individuals to discover and cultivate their talents and passions thro
 ### Access and Inclusivity
 To champion equitable access to cutting-edge technologies and education, empowering underserved communities and ensuring no one is left behind in the digital revolution.
 
-<br>
+<!-- <br> -->
 
 Value
 ======
