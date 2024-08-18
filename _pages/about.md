@@ -1,17 +1,38 @@
 ---
 permalink: /
-title: "Hannie Liu's Professional Journey"
+title: "Hannie Liu's Harmony Land"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I specialize in CVML, Psychophysics, and Product Development, blending science, art, and technology. My work spans coding, research, and interdisciplinary projects. I love exploring technology trends, sharing insights, and mentoring young talents in the software field. Beyond technology, I have a passion for photography and music. Join me as I bridge the gap between science and creativity.
 
-<!-- <br><br> -->
+Hi, I'm Hannie, an entrepreneur and developer passionate about bridging the gap between vision and reality. I call this space "Harmony Land" not only because it shares the same initials as my name, but also because it aligns with my vision of humans and technology coexisting in harmony (you can check my vision and mission [here](https://hanniehoney.github.io/vmv/)).
 
-AI Perspectives
+As a child, I was fascinated by technology - I designed my first automated production line machine at just 5 years old, and had my first conversation with an Eliza-based chatbot at 11. My friends jokingly compare me to [Reagan Ridley](https://www.google.com/search?q=Reagan+Ridley&kgmid=/g/11p00vxbgk&hl=en&gl=US&ved=0CFkQ9_gLahcKEwio0qn05f6HAxUAAAAAHQAAAAAQCg), the brilliant but socially awkward scientist from the Netflix series "[Inside Job](https://netflix.fandom.com/wiki/Inside_Job)". But, unlike her, I've had the privilege of studying in diverse environments, allowing me to speak the languages of science, engineering, design, and business. This unique blend makes me a natural collaborator across functions. You can learn more about my journey here.
+
+
+
+### Here are some exciting projects I'm currently working on:
+- PokéLab: Personal tools console to help users get things done with AI-generated views
+- Benchmarking: Benchmark router to help developers pick the suitable AI models for their use cases
+- InnerQuest: I'm the adviser to help these young founders(16-18yrs) build their AI-powered emotion identifier for teenagers
+
+
+### Here are some impactful insights I've gained about AI: 
+I recently read an [article in Nature (2024)](https://www.nature.com/articles/s41586-024-07522-w) that resonated deeply with me: "Language is primarily a tool for communication rather than thought." As a psychophysicist and computer vision engineer studying the relationship between language models and multimodal models, I've always felt that language is insufficient to fully express the brain's thoughts and emotions. When this article came out, I was thrilled to see my intuition validated.
+
+Besides *Black Mirror*, there are three movies released in 2023 have profoundly impacted my core values and beliefs about AI. 
+- **Oppenheimer(2023)** struck a chord with me, particularly the conversation between Oppenheimer and the chief science officer. The line "You dropped the bomb, punishing people with justice and injustice. I don't want two centuries of physics destroyed by this." resonated more with me than Oppenheimer's dialogue with Einstein. This echoes the idea that the impact of AI depends on its user, not the tool itself. 
+- **Barbie(2023)**—to me, it’s a film about how a robot becomes human. Barbie, a character who has long been stuck in repetitive daily tasks and scenes, starts to act differently without knowing why, even daring to mention the taboo word: death. Eventually, the feelings she's given allow her to experience rich emotions as she goes through various events, which I see as the key difference between AI and humans. 
+- **The Creator (2023)** has a line that deeply moved me: "Set them free." Whether human or AI, when you can break free from labels, you can escape from the cage of confinement and gain freedom. The movie's vision of how to coexist harmoniously with AI or robots is also my vision. 
+
+<br><br>
+
+If you’re interested in my projects or share my vision and want to discuss more insights related to AI, I’d love to hear from you! Whether you're a fellow AI enthusiast, a potential collaborator, or someone looking to support innovative projects, please don't hesitate to reach out. Email me(hannie.ihanliu@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hannieliu/) to explore ways we can work together or simply discuss the latest AI insights.
+
+<!-- AI Perspectives
 ======
 
 In my article ["Mustafa Suleyman: My new Turing test would see if AI can make $1 million"](https://www.linkedin.com/posts/hannieliu_mustafa-suleyman-my-new-turing-test-would-activity-7086714498408988672-9pYX?utm_source=share&utm_medium=member_desktop), I explore Suleyman's vision for a new Turing Test that measures an AI's ability to transition across tasks, from text to video and image to audio. This future of AI emphasizes collaboration in creativity rather than mere efficiency. Additionally, in ["Why there's no emergence happening on CV but NLP?"](https://www.linkedin.com/posts/hannieliu_cv-nlp-emergence-activity-7081431488369463296-9sxe?utm_source=share&utm_medium=member_desktop), I discuss why natural language processing exhibits emergent behaviors, unlike computer vision, due to factors like unified task representations and architecture, higher information density in language, and the complexity of visual tasks. The evolution of computer vision may lie in multi-modal, highly integrated technologies.
@@ -24,14 +45,14 @@ In my article ["Measuring AI Success by the Value It Brings to Users"](https://h
 
 <!-- <br><br> -->
 
-Art and Science Synergy
+<!-- Art and Science Synergy
 ======
 
 > The greatest scientists are artists as well.
 > — Albert Einstein
 
 > Study the science of art. Study the art of science. Develop your senses - especially learn how to see. Realize that everything connects to everything else.
-> — Leonardo da Vinci
+> — Leonardo da Vinci --> -->
 
 <!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
 
