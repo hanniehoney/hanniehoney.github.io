@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-If you would like to download my CV, please <a href="https://drive.google.com/file/d/1FT9Cj2MXRyqo066pz2T0luhp1vh9LBSD/view?usp=drive_link" target="_blank">click here</a> to download.
+<!-- If you would like to download my CV, please <a href="https://drive.google.com/file/d/1FT9Cj2MXRyqo066pz2T0luhp1vh9LBSD/view?usp=drive_link" target="_blank">click here</a> to download. -->
 
 
 
@@ -79,7 +79,7 @@ If you would like to download my CV, please <a href="https://drive.google.com/fi
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -91,7 +91,7 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Teaching
 ======
